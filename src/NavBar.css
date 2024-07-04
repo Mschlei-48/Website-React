@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Wittgenstein:ital,wght@0,400..900;1,400..900&display=swap');
+
+.NavBar{
+    display:flex;
+    flex-direction:row;
+    margin-left:10%;
+    margin-right:10%;
+}
+.nav-content{
+    margin-left:60%;
+    margin-top:4%;
+}
+span{
+    margin-right:12%;
+}
+h1{
+    color:black;
+    font-family:Wittgenstein;
+    font-weight:900;
+}
+.links{
+    color:rgb(52, 50, 50);
+    cursor: pointer;
+}
