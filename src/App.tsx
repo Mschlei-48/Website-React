@@ -6,10 +6,10 @@ import NavBar from './Navigation.tsx'
 import BrightFuture from './bright.tsx'
 import New from './new.tsx'
 import Footer from'./footer.tsx'
-// import Content from './content.tsx'
+
 
 function App() {
-  // const [count, setCount] = useState(0)
+  
 
   return (
     <>

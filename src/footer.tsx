@@ -11,9 +11,9 @@ function Footer(){
 
             <div className='retro-content'>
                 <div className='retro-image-container'>
-                    <img src={retro_img} className='retro-img'/>
+                    <img src={retro_img} className='img'/>
                 </div>
-                <div className='retro-content-container'>
+                <div className='content-container'>
                     <h2 id='One'>01</h2>
                     <h4>Reviving Retro PCs</h4>
                     <p>What happens when old PCs are given modern upgrades?</p>
@@ -22,9 +22,9 @@ function Footer(){
 
             <div className="laptop-content">
                 <div className='laptop-inage-container'>
-                    <img src={laptop_img} className="laptop-img"/>
+                    <img src={laptop_img} className="img"/>
                 </div>
-                <div className="laptop-content-container">
+                <div className="content-container">
                     <h2 id='Two'>02</h2>
                     <h4>Top 10 Laptops of 2022</h4>
                     <p>Our best picks for various needs and budgets.</p>
@@ -33,9 +33,9 @@ function Footer(){
 
             <div className='gaming-content'>
                 <div className='gaming-image-container'>
-                    <img src={gaming_img} className='gaming-img'/>
+                    <img src={gaming_img} className='img'/>
                 </div>
-                <div className='gaming-content-container'>
+                <div className='content-container'>
                     <h2 id='Three'>03</h2>
                     <h4>The Growth of Gaming</h4>
                     <p>How the pandeminc has sparked fresh opportunities.</p>

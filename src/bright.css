@@ -6,6 +6,7 @@
 
 #bright-future{
     line-height: 115%;
+    font-family:'Segoe UI';
 }
 img{
     width:88%;
@@ -25,7 +26,8 @@ img{
 #read-button{
     background-color:#ff4500;
     border-radius: 0;
-    margin-top: 7%;;
+    margin-top: 7%;
+    font-weight: bold;
 }
 .inner-container1{
     margin-left:0%;
