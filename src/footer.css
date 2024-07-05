@@ -6,13 +6,11 @@
 .retro-content{
     display:flex;
 }
-#One,#Two,#Three{
-    color:#ff4500;
-    
+.count{
+    color:#ff4500;   
 }
 .laptop-content{
     display:flex;
-    /* margin-left:-4%; */
 }
 .gaming-content{
     display:flex;
