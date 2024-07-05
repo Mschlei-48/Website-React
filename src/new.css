@@ -5,5 +5,8 @@
     text-align: justify;
     padding-left:2%;
     padding-right:2%;
-    margin-bottom: 8%;;
+    margin-bottom: 8%;
+}
+#new-text{
+    color:rgb(214, 143, 11);
 }

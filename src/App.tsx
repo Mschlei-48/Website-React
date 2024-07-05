@@ -15,9 +15,10 @@ function App() {
     <>
       <NavBar/>
       <div className="bright-new-content">
-        <BrightFuture className="bright-future"/>
-        <New className="new"/>
+        <BrightFuture/>
+        <New/>
       </div>
+      <Footer/>
 
     </>
   )

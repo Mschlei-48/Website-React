@@ -8,7 +8,7 @@ function BrightFuture(){
             <img src={bright_img} alt="Bright-Future-Image" className="image"/>
             <div className="outer-container">
                 <div className="inner-container1">
-                    <h1>The Bright Future of Web 3.0?</h1>
+                    <h1 id='bright-future'>The Bright Future of Web 3.0?</h1>
                 </div>
                 <div className="inner-container2">
                     <p>We dive into the next evolution of the web that claims to put the power of the platforms back into the hands of the people. But is it really fuliflling its promise?</p>

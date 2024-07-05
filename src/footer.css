@@ -1,0 +1,63 @@
+/* Retro content styles */
+.retro-img{
+    width:86%;
+    height:40%;
+    margin-top:11%;
+}
+
+.retro-content{
+    display:flex;
+}
+.retro-content-container{
+    margin-left:2%;
+    margin-bottom:42%;
+    width:50%;
+    text-align:start;
+}
+#One{
+    color:#ff4500;
+    
+}
+
+/* Laptop content styles */
+.laptop-img{
+    width:86%;
+    height:40%;
+    margin-top: 8%;
+}
+.laptop-content{
+    display:flex;
+    margin-left:-4%;
+}
+.laptop-content-container{
+    width:55%;
+    margin-left:2%;
+    margin-top:-1%;
+}
+#Two{
+    color:#ff4500;
+}
+
+
+/* Gaming content styles */
+.gaming-content{
+    display:flex;
+}
+.gaming-img{
+    width:86%;
+    height:44%;
+}
+#Three{
+    color:#ff4500;
+}
+
+.gaming-content-container{
+    margin-right:-20%;
+}
+
+/* Main container styles */
+.main-container{
+    margin-left:10%;
+    display:flex;
+    margin-bottom: -40%;
+}
